@@ -50,7 +50,7 @@ The Custom Form Builder is a versatile web application that allows users to crea
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/custom-form-builder.git](https://github.com/yashwanthvarma18/My-Forms.git)
+   git clone https://github.com/yashwanthvarma18/My-Forms.git
    cd project
    ```
 
